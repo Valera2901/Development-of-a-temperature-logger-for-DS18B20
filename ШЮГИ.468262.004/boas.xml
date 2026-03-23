@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BoasConfig>
+  <DocsParams>
+    <PENameParam></PENameParam>
+    <PENameParam3></PENameParam3>
+    <PENameParam3alt></PENameParam3alt>
+    <VpAtrib2></VpAtrib2>
+    <VpAtrib3></VpAtrib3>
+    <VpAtrib4></VpAtrib4>
+    <VpText5></VpText5>
+    <PrimPe></PrimPe>
+    <PrimVp></PrimVp>
+    <PrimSp></PrimSp>
+    <ExportPage1>True</ExportPage1>
+    <ExportPage2>False</ExportPage2>
+    <ExportPage3>True</ExportPage3>
+    <ExportPage4>False</ExportPage4>
+    <LockPage1>True</LockPage1>
+    <LockPage2>True</LockPage2>
+    <LockPage3>True</LockPage3>
+    <LockPage4>True</LockPage4>
+    <ExportSch>False</ExportSch>
+    <LockDocs>False</LockDocs>
+    <RazdelFromAtrib>False</RazdelFromAtrib>
+    <PostStart>1</PostStart>
+    <PosInc>1</PosInc>
+    <ShowRazdel>True</ShowRazdel>
+    <AddRazdel>True</AddRazdel>
+    <OneEntryIsGroup>False</OneEntryIsGroup>
+    <PeFlat>False</PeFlat>
+    <FgNum>True</FgNum>
+    <NoVariants>True</NoVariants>
+    <SpecSort>False</SpecSort>
+    <SpecShowGroup>False</SpecShowGroup>
+    <AddSpecRazdelOne>True</AddSpecRazdelOne>
+    <SpecEmptyLine>False</SpecEmptyLine>
+    <SpecRowMerge>False</SpecRowMerge>
+    <SpecEmptyLineNum>1</SpecEmptyLineNum>
+    <ObozSp></ObozSp>
+    <RazdelSp></RazdelSp>
+    <SpecUseTu>True</SpecUseTu>
+    <SheetName>SheetName</SheetName>
+  </DocsParams>
+  <Positions>
+    <Position id="2">
+      <Value>A1</Value>
+    </Position>
+    <Position id="3">
+      <Value>C1</Value>
+      <Value>C2</Value>
+      <Value>C5</Value>
+      <Value>C6</Value>
+      <Value>C7</Value>
+      <Value>C10</Value>
+      <Value>C11</Value>
+      <Value>C12</Value>
+      <Value>C13</Value>
+      <Value>C14</Value>
+      <Value>A1C15</Value>
+      <Value>A2C15</Value>
+      <Value>A3C18</Value>
+      <Value>A4C18</Value>
+      <Value>A5C18</Value>
+    </Position>
+    <Position id="4">
+      <Value>A1C16</Value>
+      <Value>A2C16</Value>
+    </Position>
+    <Position id="5">
+      <Value>A1C17</Value>
+      <Value>A2C17</Value>
+    </Position>
+    <Position id="6">
+      <Value>C9</Value>
+    </Position>
+    <Position id="7">
+      <Value>C3</Value>
+    </Position>
+    <Position id="8">
+      <Value>C8</Value>
+    </Position>
+    <Position id="9">
+      <Value>C4</Value>
+    </Position>
+    <Position id="10">
+      <Value>A1DA2</Value>
+      <Value>A2DA2</Value>
+    </Position>
+    <Position id="11">
+      <Value>DA1</Value>
+    </Position>
+    <Position id="12">
+      <Value>DD5</Value>
+    </Position>
+    <Position id="13">
+      <Value>A3DD6</Value>
+      <Value>A4DD6</Value>
+      <Value>A5DD6</Value>
+    </Position>
+    <Position id="14">
+      <Value>DD4</Value>
+    </Position>
+    <Position id="15">
+      <Value>DD1</Value>
+    </Position>
+    <Position id="16">
+      <Value>DD3</Value>
+    </Position>
+    <Position id="17">
+      <Value>DD2</Value>
+    </Position>
+    <Position id="18">
+      <Value>G1</Value>
+      <Value>G2</Value>
+    </Position>
+    <Position id="19">
+      <Value>HG1</Value>
+    </Position>
+    <Position id="20">
+      <Value>HL1</Value>
+    </Position>
+    <Position id="21">
+      <Value>L1</Value>
+    </Position>
+    <Position id="22">
+      <Value>A1L3</Value>
+      <Value>A2L3</Value>
+    </Position>
+    <Position id="23">
+      <Value>L2</Value>
+    </Position>
+    <Position id="24">
+      <Value>R8</Value>
+    </Position>
+    <Position id="25">
+      <Value>A1R16</Value>
+      <Value>A2R16</Value>
+    </Position>
+    <Position id="26">
+      <Value>R4</Value>
+      <Value>R7</Value>
+      <Value>R14</Value>
+    </Position>
+    <Position id="27">
+      <Value>R9</Value>
+      <Value>R10</Value>
+    </Position>
+    <Position id="28">
+      <Value>R11</Value>
+      <Value>R13</Value>
+      <Value>R15</Value>
+    </Position>
+    <Position id="29">
+      <Value>R1</Value>
+      <Value>R2</Value>
+      <Value>R3</Value>
+      <Value>R5</Value>
+    </Position>
+    <Position id="30">
+      <Value>R6</Value>
+    </Position>
+    <Position id="31">
+      <Value>R12</Value>
+    </Position>
+    <Position id="32">
+      <Value>A1R17</Value>
+      <Value>A2R17</Value>
+    </Position>
+    <Position id="33">
+      <Value>A1R18</Value>
+      <Value>A2R18</Value>
+    </Position>
+    <Position id="34">
+      <Value>SA1</Value>
+    </Position>
+    <Position id="35">
+      <Value>SB1</Value>
+      <Value>SB2</Value>
+    </Position>
+    <Position id="36">
+      <Value>A1VD4</Value>
+      <Value>A2VD4</Value>
+    </Position>
+    <Position id="37">
+      <Value>VD2</Value>
+      <Value>VD3</Value>
+    </Position>
+    <Position id="38">
+      <Value>VD1</Value>
+    </Position>
+    <Position id="39">
+      <Value>VT1</Value>
+    </Position>
+    <Position id="40">
+      <Value>WA1</Value>
+    </Position>
+    <Position id="41">
+      <Value>X2</Value>
+    </Position>
+    <Position id="42">
+      <Value>A3X6</Value>
+      <Value>A3X7</Value>
+      <Value>A4X6</Value>
+      <Value>A4X7</Value>
+      <Value>A5X6</Value>
+      <Value>A5X7</Value>
+    </Position>
+    <Position id="43">
+      <Value>X1</Value>
+    </Position>
+    <Position id="44">
+      <Value>X3</Value>
+      <Value>X5</Value>
+    </Position>
+    <Position id="45">
+      <Value>X4</Value>
+    </Position>
+  </Positions>
+  <materials />
+  <pelines>
+    <peline num="1" oboz="A1" name="Устройство KY-023 Aitewin Robot" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="2" oboz="C1, C2" name="0603B104J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C3" name="JCK1E100M050054 JB Capacitors" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C4" name="JCK1E470M063054 JB Capacitors" comment="" underline="False" type="None" />
+    <peline num="3" oboz="C5-C7" name="0603B104J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C8" name="JCK1E220M063054 JB Capacitors" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C9" name="JCK1C221M080105 JB Capacitors" comment="" underline="False" type="None" />
+    <peline num="5" oboz="C10-C14" name="0603B104J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Микросхемы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="DA1" name="XL6009E1 Shanghai Xinlong Semiconductor Technology Co., Ltd" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD1" name="ESP32-S3-WROOM1 MON16R8 Espressif" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD2" name="PCF8574T Philips Semiconductors" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD3" name="NEO-6M U-Blox" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD4" name="DS3231S# Maxim Integrated Products" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD5" name="24AA32AT-I/ST Microchip Technology" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="2" oboz="G1, G2" name="Генератор, источник питания KLS5-CR2032-01 KLS electronic co ltd" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HG1" name="Индикатор символьный BCB2004-03-LW-SNMWD Blaze Display Technology" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="HL1" name="Прибор световой сигнализации FYLS-0603GC Ningbo Foryard " comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Optoelectronics" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Катушки индуктивности" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="L1" name="7448991470 Würth Elektronik" comment="" underline="False" type="None" />
+    <peline num="1" oboz="L2" name="LQM21DN220N00L Murata Electronics" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="3" oboz="R1-R3" name="Р1-12-0,063-10 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R4" name="НР1-86-6-10 кОм±1 %-М-«А» ШКАБ.434110.039 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R5" name="Р1-12-0,063-10 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R6" name="Р1-12-0,063-86,6 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R7" name="НР1-86-6-10 кОм±1 %-М-«А» ШКАБ.434110.039 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R8" name="3362P-1-103LF Bourns" comment="" underline="False" type="None" />
+    <peline num="2" oboz="R9, R10" name="Р1-12-0,063-22,1 Ом±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R11" name="Р1-12-0,063-1 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R12" name="Р1-12-0,125-22,1 Ом±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R13" name="Р1-12-0,063-1 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R14" name="НР1-86-6-10 кОм±1 %-М-«А» ШКАБ.434110.039 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R15" name="Р1-12-0,063-1 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="SA1" name="Выключатель или переключатель MTS-103-C3 Massuse Ltd." comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="2" oboz="SB1, SB2" name="Выключатель кнопочный KLS7-TS3401-2.5-250-B KLS Electronics Co., Ltd." comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Диоды" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="VD1" name="VS-50WQ03FN-M3 Vishay Intertechnology Inc." comment="" underline="False" type="None" />
+    <peline num="2" oboz="VD2, VD3" name="LL4148 Diotec Semiconductor" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="VT1" name="Транзистор BC847 NXP Semiconductors" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="WA1" name="Антенна U.FL-R-SMT-1 HIROSE ELECTRIC CO., LTD." comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Соединения контактные" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="X1" name="DS1069-4MRW6XB Connfly electronic" comment="" underline="False" type="None" />
+    <peline num="1" oboz="X2" name="1050017-0001 Molex" comment="" underline="False" type="None" />
+    <peline num="1" oboz="X3" name="DS-261A-PA9T-NB-210 Dragon City Industries" comment="" underline="False" type="None" />
+    <peline num="1" oboz="X4" name="TFP09-2-12B Shenzhen Chipskey Technology Co., Ltd." comment="" underline="False" type="None" />
+    <peline num="1" oboz="X5" name="DS-261A-PA9T-NB-210 Dragon City Industries" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="2" oboz="A1, A2" name="1 Функциональная группа" comment="" underline="False" type="FunctionalGroup" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="C15" name="0603B104J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C16" name="0603B561J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C17" name="JCK1C100M040054 JB Capacitors" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DA2" name="Микросхема MC34063ADG ON Semiconductor" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="L3" name="Катушка индуктивности CDRH74NP-101MC-B SUMIDA CORPORATION" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="Резисторы" comment="" underline="False" type="ElementGroup" />
+    <peline num="1" oboz="R16" name="CRL1206-FW-R220ELF Bourns" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R17" name="Р1-12-0,25-1,21 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="1" oboz="R18" name="Р1-12-0,25-3,65 кОм±2 %-Т-Л-М АБШК.434110.023 ТУ" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="VD4" name="Диод 10MQ040 Sunmate Electronics" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="3" oboz="A3-A5" name="2 Функциональная группа" comment="" underline="False" type="FunctionalGroup" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C18" name="Конденсатор 0603B104J500CT Thunder" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD6" name="Микросхема DS18B20 UTD Semiconductor Co.,Ltd" comment="" underline="False" type="None" />
+    <peline num="" oboz="" name="" comment="" underline="False" type="None" />
+    <peline num="2" oboz="X6, X7" name="Соединение контактное DS1021-01-1*3SSF112 Connfly electronic" comment="" underline="False" type="None" />
+  </pelines>
+  <vplines>
+    <vpline num="" oboz="" kod="" name="Устройства" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="KY-023 Aitewin Robot" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="15" oboz="" kod="" name="0603B104J500CT Thunder" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="0603B561J500CT Thunder" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="JCK1C100M040054 JB Capacitors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="JCK1C221M080105 JB Capacitors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="JCK1E100M050054 JB Capacitors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="JCK1E220M063054 JB Capacitors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="JCK1E470M063054 JB Capacitors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Микросхемы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="24AA32AT-I/ST Microchip Technology" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="DS18B20 UTD Semiconductor Co.,Ltd" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="DS3231S# Maxim Integrated Products" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="ESP32-S3-WROOM1 MON16R8 Espressif" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="MC34063ADG ON Semiconductor" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="NEO-6M U-Blox" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="PCF8574T Philips Semiconductors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Микросхемы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="XL6009E1 Shanghai Xinlong Semiconductor " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Technology Co., Ltd" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Генераторы, источники питания" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="KLS5-CR2032-01 KLS electronic co ltd" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Индикаторы символьные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="BCB2004-03-LW-SNMWD Blaze Display " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Technology" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Приборы световой сигнализации" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="FYLS-0603GC Ningbo Foryard Optoelectronics" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Катушки индуктивности" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="7448991470 Würth Elektronik" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CDRH74NP-101MC-B SUMIDA CORPORATION" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="LQM21DN220N00L Murata Electronics" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="3362P-1-103LF Bourns" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CRL1206-FW-R220ELF Bourns" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="НР1-86-6-10 кОм±1 %-М-«А» ШКАБ.434110.039  ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="Р1-12-0,063-22,1 Ом±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="Р1-12-0,063-1 кОм±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="" kod="" name="Р1-12-0,063-10 кОм±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Р1-12-0,063-86,6 кОм±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Р1-12-0,125-22,1 Ом±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="Р1-12-0,25-1,21 кОм±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="Р1-12-0,25-3,65 кОм±2 %-Т-Л-М " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Выключатели или переключатели" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="MTS-103-C3 Massuse Ltd." comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Выключатели кнопочные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="KLS7-TS3401-2.5-250-B KLS Electronics Co., Ltd." comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Диоды" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="10MQ040 Sunmate Electronics" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="LL4148 Diotec Semiconductor" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="VS-50WQ03FN-M3 Vishay Intertechnology Inc." comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Транзисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="BC847 NXP Semiconductors" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Антенны" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="U.FL-R-SMT-1 HIROSE ELECTRIC CO., LTD." comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Соединения контактные" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="1050017-0001 Molex" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="" kod="" name="DS1021-01-1*3SSF112 Connfly electronic" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="DS1069-4MRW6XB Connfly electronic" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="DS-261A-PA9T-NB-210 Dragon City Industries" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="TFP09-2-12B Shenzhen Chipskey Technology Co., " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Ltd." comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+  </vplines>
+  <speclines>
+    <specline num="" oboz="" name="Детали" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="ШЮГИ.758724.220 Т9М" name="Плата двусторонняя" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="1" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Прочие изделия" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Устройство KY-023 Aitewin Robot" comment="A1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Устройства" GroupLine2="" format="" pos="2" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="15" oboz="" name="0603B104J500CT Thunder" comment="C1, C2, C5-C7," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="3" posinelement="1" />
+    <specline num="" oboz="" name="" comment="C10-C14, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="A1_C15," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="" oboz="" name="" comment="A2_C15, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="4" />
+    <specline num="" oboz="" name="" comment="A3_C18," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="5" />
+    <specline num="" oboz="" name="" comment="A4_C18, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="6" />
+    <specline num="" oboz="" name="" comment="A5_C18" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="7" />
+    <specline num="2" oboz="" name="0603B561J500CT Thunder" comment="A1_C16, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="4" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A2_C16" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="JCK1C100M040054 JB Capacitors" comment="A1_C17, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="5" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A2_C17" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="JCK1C221M080105 JB Capacitors" comment="C9" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="6" posinelement="1" />
+    <specline num="1" oboz="" name="JCK1E100M050054 JB Capacitors" comment="C3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="7" posinelement="1" />
+    <specline num="1" oboz="" name="JCK1E220M063054 JB Capacitors" comment="C8" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="8" posinelement="1" />
+    <specline num="1" oboz="" name="JCK1E470M063054 JB Capacitors" comment="C4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="9" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Микросхемы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="MC34063ADG ON Semiconductor" comment="A1_DA2, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="10" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A2_DA2" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="XL6009E1 Shanghai Xinlong Semiconductor " comment="DA1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="11" posinelement="1" />
+    <specline num="" oboz="" name="Technology Co., Ltd" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Микросхемы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="24AA32AT-I/ST Microchip Technology" comment="DD5" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="12" posinelement="1" />
+    <specline num="3" oboz="" name="DS18B20 UTD Semiconductor Co.,Ltd" comment="A3_DD6, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="13" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A4_DD6, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="A5_DD6" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="1" oboz="" name="DS3231S# Maxim Integrated Products" comment="DD4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="14" posinelement="1" />
+    <specline num="1" oboz="" name="ESP32-S3-WROOM1 MON16R8 Espressif" comment="DD1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="15" posinelement="1" />
+    <specline num="1" oboz="" name="NEO-6M U-Blox" comment="DD3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="16" posinelement="1" />
+    <specline num="1" oboz="" name="PCF8574T Philips Semiconductors" comment="DD2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы" GroupLine2="" format="" pos="17" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Генератор, источник питания KLS5-" comment="G1, G2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Генераторы, источники питания" GroupLine2="" format="" pos="18" posinelement="1" />
+    <specline num="" oboz="" name="CR2032-01 KLS electronic co ltd" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Индикатор символьный BCB2004-03-LW-" comment="HG1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Индикаторы символьные" GroupLine2="" format="" pos="19" posinelement="1" />
+    <specline num="" oboz="" name="SNMWD Blaze Display Technology" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Прибор световой сигнализации FYLS-" comment="HL1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Приборы световой сигнализации" GroupLine2="" format="" pos="20" posinelement="1" />
+    <specline num="" oboz="" name="0603GC Ningbo Foryard Optoelectronics" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Катушки индуктивности" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="7448991470 Würth Elektronik" comment="L1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Катушки индуктивности" GroupLine2="" format="" pos="21" posinelement="1" />
+    <specline num="2" oboz="" name="CDRH74NP-101MC-B SUMIDA CORPORATION" comment="A1_L3, A2_L3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Катушки индуктивности" GroupLine2="" format="" pos="22" posinelement="1" />
+    <specline num="1" oboz="" name="LQM21DN220N00L Murata Electronics" comment="L2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Катушки индуктивности" GroupLine2="" format="" pos="23" posinelement="1" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="3362P-1-103LF Bourns" comment="R8" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="24" posinelement="1" />
+    <specline num="2" oboz="" name="CRL1206-FW-R220ELF Bourns" comment="A1_R16, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="25" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A2_R16" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="3" oboz="" name="НР1-86-6-10 кОм±1 %-М-«А» " comment="R4, R7," underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="26" posinelement="1" />
+    <specline num="" oboz="" name="ШКАБ.434110.039 ТУ" comment="R14" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="Р1-12-0,063-22,1 Ом±2 %-Т-Л-М " comment="R9, R10" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="27" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="3" oboz="" name="Р1-12-0,063-1 кОм±2 %-Т-Л-М " comment="R11, R13," underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="28" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="R15" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="4" oboz="" name="Р1-12-0,063-10 кОм±2 %-Т-Л-М " comment="R1-R3, R5" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="29" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="Р1-12-0,063-86,6 кОм±2 %-Т-Л-М " comment="R6" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="30" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="Р1-12-0,125-22,1 Ом±2 %-Т-Л-М " comment="R12" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="31" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="Р1-12-0,25-1,21 кОм±2 %-Т-Л-М " comment="A1_R17, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="32" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="A2_R17" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="Р1-12-0,25-3,65 кОм±2 %-Т-Л-М " comment="A1_R18, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="33" posinelement="1" />
+    <specline num="" oboz="" name="АБШК.434110.023 ТУ" comment="A2_R18" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Выключатель или переключатель MTS-103-" comment="SA1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Выключатели или переключатели" GroupLine2="" format="" pos="34" posinelement="1" />
+    <specline num="" oboz="" name="C3 Massuse Ltd." comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="Выключатель кнопочный KLS7-TS3401-2.5-" comment="SB1, SB2" underline="False" type="None" merge="False" needtu="True" GroupLine1="Выключатели кнопочные" GroupLine2="" format="" pos="35" posinelement="1" />
+    <specline num="" oboz="" name="250-B KLS Electronics Co., Ltd." comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Диоды" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="2" oboz="" name="10MQ040 Sunmate Electronics" comment="A1_VD4, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Диоды" GroupLine2="" format="" pos="36" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A2_VD4" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="LL4148 Diotec Semiconductor" comment="VD2, VD3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Диоды" GroupLine2="" format="" pos="37" posinelement="1" />
+    <specline num="1" oboz="" name="VS-50WQ03FN-M3 Vishay Intertechnology " comment="VD1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Диоды" GroupLine2="" format="" pos="38" posinelement="1" />
+    <specline num="" oboz="" name="Inc." comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Транзистор BC847 NXP Semiconductors" comment="VT1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Транзисторы" GroupLine2="" format="" pos="39" posinelement="1" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="Антенна U.FL-R-SMT-1 HIROSE ELECTRIC CO.," comment="WA1" underline="False" type="None" merge="False" needtu="True" GroupLine1="Антенны" GroupLine2="" format="" pos="40" posinelement="1" />
+    <specline num="" oboz="" name="LTD." comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Соединения контактные" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="1" oboz="" name="1050017-0001 Molex" comment="X2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Соединения контактные" GroupLine2="" format="" pos="41" posinelement="1" />
+    <specline num="6" oboz="" name="DS1021-01-1*3SSF112 Connfly electronic" comment="A3_X6, A3_X7, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Соединения контактные" GroupLine2="" format="" pos="42" posinelement="1" />
+    <specline num="" oboz="" name="" comment="A4_X6, A4_X7, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="" oboz="" name="" comment="A5_X6, A5_X7" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
+    <specline num="1" oboz="" name="DS1069-4MRW6XB Connfly electronic" comment="X1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Соединения контактные" GroupLine2="" format="" pos="43" posinelement="1" />
+    <specline num="2" oboz="" name="DS-261A-PA9T-NB-210 Dragon City " comment="X3, X5" underline="False" type="None" merge="False" needtu="False" GroupLine1="Соединения контактные" GroupLine2="" format="" pos="44" posinelement="1" />
+    <specline num="" oboz="" name="Industries" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="TFP09-2-12B Shenzhen Chipskey " comment="X4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Соединения контактные" GroupLine2="" format="" pos="45" posinelement="1" />
+    <specline num="" oboz="" name="Technology Co., Ltd." comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+  </speclines>
+  <speclinespp />
+  <groups>
+    <group name="default">
+      <param name="ValueBOM" delemiter=" " />
+    </group>
+  </groups>
+  <groupscategory />
+  <razdels>
+    <razdel name="detali" np="False">
+      <specline num="1" oboz="ШЮГИ.758724.220 Т9М" name="Плата двусторонняя" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="1" id="lineBDetail1" posinelement="0" />
+    </razdel>
+    <razdel name="prochie" np="False" />
+  </razdels>
+</BoasConfig>
