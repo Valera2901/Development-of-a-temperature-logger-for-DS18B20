@@ -1,0 +1,36 @@
+Change Component Designator: OldDesignator=X8 NewDesignator=G1
+Change Component Designator: OldDesignator=X9 NewDesignator=G2
+Change Component Designator: OldDesignator=X10 NewDesignator=WA1
+Add Pin To Net: Unknown Pin: Pin A3_C18-1
+Add Pin To Net: Unknown Pin: Pin A3_C18-2
+Add Pin To Net: Unknown Pin: Pin A3_DD6-1
+Add Pin To Net: Unknown Pin: Pin A3_DD6-2
+Add Pin To Net: Unknown Pin: Pin A3_DD6-3
+Add Pin To Net: Unknown Pin: Pin A3_X7-1
+Add Pin To Net: Unknown Pin: Pin A3_X7-2
+Add Pin To Net: Unknown Pin: Pin A3_X7-3
+Add Pin To Net: Unknown Pin: Pin A4_C18-1
+Add Pin To Net: Unknown Pin: Pin A4_C18-2
+Add Pin To Net: Unknown Pin: Pin A4_DD6-1
+Add Pin To Net: Unknown Pin: Pin A4_DD6-2
+Add Pin To Net: Unknown Pin: Pin A4_DD6-3
+Add Pin To Net: Unknown Pin: Pin A4_X7-1
+Add Pin To Net: Unknown Pin: Pin A4_X7-2
+Add Pin To Net: Unknown Pin: Pin A4_X7-3
+Add Pin To Net: Unknown Pin: Pin A5_C18-1
+Add Pin To Net: Unknown Pin: Pin A5_C18-2
+Add Pin To Net: Unknown Pin: Pin A5_DD6-1
+Add Pin To Net: Unknown Pin: Pin A5_DD6-2
+Add Pin To Net: Unknown Pin: Pin A5_DD6-3
+Add Pin To Net: Unknown Pin: Pin A5_X7-1
+Add Pin To Net: Unknown Pin: Pin A5_X7-2
+Add Pin To Net: Unknown Pin: Pin A5_X7-3
+Add Class Member: Failed to add class member : Component A3_C18 (C18) 0603B104J500CT Thunder
+Add Class Member: Failed to add class member : Component A3_DD6 (DD6) DS18B20 UTD Semiconductor Co.,Ltd
+Add Class Member: Failed to add class member : Component A3_X7 (X7A) DS1021-01-1*3SSF112
+Add Class Member: Failed to add class member : Component A4_C18 (C18) 0603B104J500CT Thunder
+Add Class Member: Failed to add class member : Component A4_DD6 (DD6) DS18B20 UTD Semiconductor Co.,Ltd
+Add Class Member: Failed to add class member : Component A4_X7 (X7A) DS1021-01-1*3SSF112
+Add Class Member: Failed to add class member : Component A5_C18 (C18) 0603B104J500CT Thunder
+Add Class Member: Failed to add class member : Component A5_DD6 (DD6) DS18B20 UTD Semiconductor Co.,Ltd
+Add Class Member: Failed to add class member : Component A5_X7 (X7A) DS1021-01-1*3SSF112
